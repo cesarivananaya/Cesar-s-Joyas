@@ -1,0 +1,8 @@
+Comandos Básicos Git
+git init            // Inicia un repositorio local
+git add            // Añade los ficheros al Index
+git status        // Comprueba el status del arbol de trabajo
+git commit    // Commit los cambios
+git push        // Enviar nuestros cambios al repositorio remoto
+git pull          // Descarga los últimos cambios del repositorio remoto
+git clone      // Clona, o realizar una copia desde el repositorio remoto al local
